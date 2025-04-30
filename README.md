@@ -41,6 +41,7 @@ Music Commands
 - /queue: View the current music queue.
 
 Summary: Getting Started
+
 To set up this Discord bot, you should be familiar with the Discord Developer Portal for creating a bot and enabling required intents. You'll also need basic knowledge of environment variables using a .env file to securely store your Discord token, OpenAI key, and OpenWeather API key. This bot uses asynchronous Python (async/await), so understanding async patterns is helpful. Make sure FFmpeg is installed for music playback, and be comfortable using pip to install dependencies. Basic experience with REST APIs and handling JSON is useful for the ChatGPT and weather features. Finally, ensure you’ve signed up for OpenAI and OpenWeather to obtain API keys.
 
 
